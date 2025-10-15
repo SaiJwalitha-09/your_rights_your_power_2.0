@@ -1,5 +1,6 @@
 import { Card } from "@/components/ui/card";
 import { LucideIcon } from "lucide-react";
+import { useNavigate } from "react-router-dom";
 
 interface CategoryCardProps {
   title: string;
@@ -7,12 +8,16 @@ interface CategoryCardProps {
   icon: LucideIcon;
   image: string;
   gradient: string;
+  link: string;
 }
 
-export const CategoryCard = ({ title, description, icon: Icon, image, gradient }: CategoryCardProps) => {
+export const CategoryCard = ({ title, description, icon: Icon, image, gradient, link }: CategoryCardProps) => {
+  const navigate = useNavigate();
+
   return (
     <Card 
       className="group overflow-hidden hover:shadow-[var(--shadow-soft)] transition-all duration-300 cursor-pointer border-2 hover:border-primary/20"
+      onClick={() => navigate(link)}
     >
       <div 
         className="h-56 relative overflow-hidden"

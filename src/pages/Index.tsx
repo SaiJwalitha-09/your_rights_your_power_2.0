@@ -21,6 +21,7 @@ const Index = () => {
       icon: ShoppingCart,
       image: consumerRights,
       gradient: "linear-gradient(135deg, rgba(59, 130, 246, 0.8), rgba(14, 165, 233, 0.8))",
+      link: "/consumer-rights",
     },
     {
       title: "Women's Safety",
@@ -28,6 +29,7 @@ const Index = () => {
       icon: Shield,
       image: womenSafety,
       gradient: "linear-gradient(135deg, rgba(251, 146, 60, 0.8), rgba(249, 115, 22, 0.8))",
+      link: "/womens-safety",
     },
     {
       title: "Cyber Safety",
@@ -35,6 +37,7 @@ const Index = () => {
       icon: Wifi,
       image: cyberSafety,
       gradient: "linear-gradient(135deg, rgba(20, 184, 166, 0.8), rgba(6, 182, 212, 0.8))",
+      link: "/cyber-safety",
     },
   ];
 
