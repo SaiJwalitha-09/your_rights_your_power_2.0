@@ -1,5 +1,7 @@
 # Know Your Rights
 
+**Live Website:** [https://your-rights-your-power-2-0.vercel.app](https://your-rights-your-power-2-0.vercel.app)
+
 ## About the Project
 "Know Your Rights" is a web application dedicated to providing free legal guidance in simple language for everyone. Our mission is to bridge the gap in legal awareness for all communities across India, empowering citizens with accessible knowledge about their rights.
 
