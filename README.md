@@ -22,4 +22,4 @@ If you want to run this project on your own computer, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+  git clone https://github.com/SaiJwalitha-09/your_rights_your_power_2.0
