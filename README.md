@@ -1,73 +1,25 @@
-# Welcome to your Lovable project
+# Know Your Rights
 
-## Project info
+## About the Project
+"Know Your Rights" is a web application dedicated to providing free legal guidance in simple language for everyone. Our mission is to bridge the gap in legal awareness for all communities across India, empowering citizens with accessible knowledge about their rights.
 
-**URL**: https://lovable.dev/projects/f112ac35-1246-49fd-8f30-18ec6ab1db5a
+### Key Features
+* **Consumer Rights:** Information on filing complaints and getting justice for unfair practices.
+* **Women's Safety:** Resources on laws protecting women and emergency helplines.
+* **Cyber Safety:** Guides on protecting yourself online and reporting cybercrimes.
+* **Simple Language:** Complex legal terms broken down into easy-to-understand concepts for all ages.
 
-## How can I edit this code?
+## Technologies Used
+This project is built with a modern web stack:
+* Vite
+* TypeScript[cite: 10]
+* React[cite: 10]
+* shadcn-ui[cite: 10]
+* Tailwind CSS[cite: 10]
 
-There are several ways of editing your application.
+## Getting Started Locally
+If you want to run this project on your own computer, follow these steps:
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/f112ac35-1246-49fd-8f30-18ec6ab1db5a) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f112ac35-1246-49fd-8f30-18ec6ab1db5a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+1. Clone the repository:
+   ```bash
+   git clone <YOUR_REPOSITORY_URL>
